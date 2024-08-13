@@ -17,14 +17,11 @@ O backend foi desenvolvido em Node.js utilizando o framework Express. Ele é res
 
 ## Como Executar
 Clone o repositório:
-
-## bash
-Copiar código
 git clone https://github.com/Geronilton/React_Login.git
 cd React_Login
-Instale as dependências:
 
-## bash
+## Instale as dependências:
+
 npm install
 Inicie a aplicação: npx expo start
 
